@@ -1,4 +1,13 @@
-.con {
-  border: 1px solid black;
+.container {
+  background-color: yellow;
+}
+
+.row {
   background-color: cyan;
+}
+
+.part {
+  background-color: black;
+  color: white;
+  border: 1px solid red;
 }
