@@ -1,12 +1,4 @@
 .container {
   border: 1px solid black;
-  margin: 1rem;
-}
-
-.container.con-xxl {
   background-color: cyan;
-}
-
-.container.con-sm {
-  background-color: yellow;
 }
