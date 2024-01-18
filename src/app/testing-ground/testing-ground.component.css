@@ -1,9 +1,11 @@
 .container {
   background-color: yellow;
+  height: 500px;
 }
 
 .row {
   background-color: cyan;
+  height: 50%;
 }
 
 .part {
