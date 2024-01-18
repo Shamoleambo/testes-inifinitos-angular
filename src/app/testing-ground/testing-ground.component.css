@@ -1,10 +1,7 @@
 .container {
-  color: white;
+  background-color: cyan;
 }
 
-.truta {
-  background-color: grey;
-}
-.mano {
-  background-color: black;
+.col-md-12 {
+  background-color: red;
 }
